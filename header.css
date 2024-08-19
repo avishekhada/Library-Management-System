@@ -1,0 +1,129 @@
+
+.wrapper
+{
+    height: 100%;
+    width: 100%;
+}
+
+header{
+    height:120px;
+    width: 103%;
+    background-color: #337ab7;
+}
+section{
+    height: 650px;
+    width: 100%;
+   background-color: grey;
+}
+
+h1{
+    color: rgb(248, 241, 241);
+    padding-top: 30px;
+    padding-left: 200px;
+    word-spacing: 10px;  
+}
+
+.logo
+{
+    padding-left: 50px;
+  float: left;
+  
+
+}
+
+li
+{
+    float :left;
+}
+li a{
+    color: rgb(243, 243, 250);
+    text-decoration: none;
+    text-align: center;
+  padding: 14px 16px;
+  
+}
+
+    li a:hover 
+    {
+        background-color: rgb(19, 14, 14);
+      }  
+
+/*
+nav{
+    float: right ;
+  padding-right: 90px;
+   padding-bottom: 40px;
+   word-spacing: 20px;
+   padding-top: 20px;
+  
+   
+}
+nav li{
+    display: inline  ;
+    line-height: 100px;
+   
+}
+*/
+
+
+.bg
+{
+    height: 20px;
+    width: 50px;
+}
+.member
+{
+    height: 20px;
+    width: 50px;
+    padding-left: 300px;
+    padding-top: 55px;
+    
+}
+.librarian
+{
+    height: 20px;
+    width: 50px;
+    padding-top: 10px;
+    padding-left: 720px;
+
+}
+
+/*........................................................*/
+
+
+
+
+.log_img
+{
+	height: 650px;
+   
+	
+	background-image: url("2.webp");
+}
+
+
+.box1
+{
+    height: 370px;
+	width: 420px;
+	background-color: black;
+	margin: 70px auto;
+	opacity: 0.7;
+	color: white;
+	padding: 20px ;
+    padding-left: 30px;
+}
+input
+{
+    height: 25px;
+    width: 300px;
+}
+form .login
+{  margin: auto 40px;
+
+}
+/*............books...........*/
+.srch
+{
+ padding-right:800px;
+}
